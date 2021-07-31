@@ -1,4 +1,4 @@
-# Gao Wenheng’s Portfolio
+# Gao Wenheng’s Portfolio!
 
 <img src="img/MOVIE APP 1.png" alt="MOVIE APP 1, " style="zoom:100%;" />
 
